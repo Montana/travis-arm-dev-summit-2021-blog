@@ -1,0 +1,32 @@
+---
+title: "Travis CI will be at Arm DevSummit 2021"
+created_at: Fri Aug 06 2021 15:00:00 EDT
+author: Michelle Pruitt
+layout: post
+permalink: 2021-08-12-dev-summit-2021
+category: news
+excerpt_separator: <!-- more --> 
+tags:
+  - news
+  - feature
+  - infrastructure
+  - community
+---
+
+![TCI-Graphics for AdsBlogs (1) (1)](https://user-images.githubusercontent.com/20936398/129260694-f6b13cfc-27b1-4367-95a2-1408394db403.png)
+
+Howdy Builders! We are happy to announce that Travis CI will be sponsoring and participating in the 2021 ARM DevSummit this year!
+
+<!-- more --> 
+
+For those who aren’t familiar, ARM DevSummit is a 3-day virtual event that happens annually. Software and hardware developers alike within the tech industries join together to share cutting-edge innovation and trends. The summit stages the latest advancements that will shape the future of computing and an opportunity to learn about the enhancements of technological ecosystems of the world. Which means, for those who are interested in learning what’s next in technology, you might want to participate. Did we mention that it’s free too? Oh yeah!
+
+Last year the summit included talks from ARM partners like Amazon, Arduino, Google, Linaro and Microsoft. Over 4,500 people participated worldwide and were exposed to hands-on experience lectures, in-depth information alongside technical resources, real world scenarios, and much more. We are proud to join the roster and cannot wait to see what's in store for this year’s summit!
+
+So grab that pencil and paper or screenshot this, because here are the details:
+
+* When: October 19-21, 2021 
+* What time: Depending on your timezone (this option is selected during registration)
+* Where: Online – visit ARM DevSummit to register
+
+We hope to see you all there, cheers! 
